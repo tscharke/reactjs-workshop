@@ -30,8 +30,9 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "jest": "^23.6.0",
     "prettier": "^1.15.3",
-    "react-test-renderer": "^16.6.3"
+    "react-test-renderer": "^16.7.0"
   },
   "prettier": {
     "singleQuote": true,
